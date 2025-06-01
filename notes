@@ -1,0 +1,6 @@
+
+-- press below command in this microfrontend app
+"ng add @angular-architectures/native-federation --project microfrontend --port 4201 --type remote"
+
+
+-- https://www.youtube.com/watch?v=B4hAOf5lArk  11:22 minute
